@@ -17,6 +17,7 @@ const IndexPage = () => {
     <Container>
       <div
         style={{
+          height: "100vh",
           display: "flex",
           justifyContent: "center",
           alignContent: "center",
